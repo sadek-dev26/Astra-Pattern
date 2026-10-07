@@ -1,0 +1,13 @@
+{
+  "canvas": { "width": 800, "height": 600 },
+  "background": "#090909",
+  "field.variation": "scatter",
+  "field.spacing": 28,
+  "field.dotSize": 2.5,
+  "field.brightness": 78,
+  "field.accent": "#4779DD",
+  "flicker.streaks": 64,
+  "flicker.streakLength": 20,
+  "timeline": { "durationSeconds": 3.71, "progress": 0.28 },
+  "capture": { "width": 1280, "height": 720, "fieldScale": 1.2 }
+}

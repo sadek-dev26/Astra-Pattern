@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "title": "Dot Field",
+  "asset": "public/toolcraft/cover.png",
+  "generation": {
+    "kind": "app-composition",
+    "source": "src/app/app-composition.tsx",
+    "state": "app-cover-state.json",
+    "description": "A held frame at 28% of the app's 3.71-second loop, rendered from its dot-field composition with the recorded settings on a 16:9 dark background."
+  }
+}
